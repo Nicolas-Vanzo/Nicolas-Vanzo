@@ -51,14 +51,24 @@ Estou iniciando minha carreira na área de TI, focado em evoluir constantemente 
 
 <div align="center">
 
-<a href="https://github.com/Nicolas-Vanzo">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/Nicolas-Vanzo" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
 </a>
+
+<a href="https://www.linkedin.com/in/nicolas-vanzo-423631312/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8A2BE2"/>
+</a>
+
+</div>
 
 </div>
 
 ---
 
 <p align="center">
-💜 Sempre aprendendo. Sempre evoluindo.
+Sempre aprendendo. Sempre evoluindo.
 </p>
