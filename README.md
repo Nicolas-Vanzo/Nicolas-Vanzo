@@ -3,7 +3,7 @@
 <h3 align="center">🎓 Estudante de Engenharia de Software | 💻 Futuro Desenvolvedor</h3>
 
 <p align="center">
-  Estou iniciando minha carreira na área de TI e focado em evoluir como desenvolvedor.
+Estou iniciando minha carreira na área de TI e focado em evoluir como desenvolvedor.
 </p>
 
 ---
@@ -22,9 +22,13 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=8A2BE2"/>
 
 </div>
 
@@ -52,5 +56,5 @@
 ---
 
 <p align="center">
-  💜 Sempre aprendendo, sempre evoluindo.
+💜 Sempre aprendendo, sempre evoluindo.
 </p>
