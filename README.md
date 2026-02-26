@@ -16,6 +16,10 @@ Estou iniciando minha carreira na área de TI, focado em evoluir constantemente 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolas-Vanzo&theme=midnight_purple"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicolas-Vanzo&theme=midnight_purple"/>
+</div>
+
 ---
 
 ## 🛠 Tecnologias que estou estudando
