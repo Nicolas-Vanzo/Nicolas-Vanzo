@@ -9,10 +9,11 @@ Estou iniciando minha carreira na área de TI, focado em evoluir constantemente 
 ---
 
 <div align="center">
-  <a href="https://github.com/Nicolas-Vanzo">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nicolas-Vanzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=8A2BE2&title_color=8A2BE2&icon_color=8A2BE2"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nicolas-Vanzo&layout=compact&langs_count=8&theme=dracula&border_color=8A2BE2&title_color=8A2BE2"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicolas-Vanzo&theme=midnight_purple"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolas-Vanzo&theme=midnight_purple"/>
 </div>
 
 ---
@@ -59,5 +60,5 @@ Estou iniciando minha carreira na área de TI, focado em evoluir constantemente 
 ---
 
 <p align="center">
-Sempre aprendendo. Sempre evoluindo.
+  Sempre aprendendo. Sempre evoluindo.
 </p>
