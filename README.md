@@ -37,8 +37,8 @@ Estou iniciando minha carreira na área de TI e focado em evoluir como desenvolv
 ## 📈 Objetivos
 
 - 🔥 Evoluir como desenvolvedor
-- 🧠 Aprender boas práticas de arquitetura
-- 🚀 Construir projetos reais
+- 🧠 Aprender boas práticas
+- 🚀 Construir projetos
 - 💼 Conquistar minha primeira oportunidade na área
 
 ---
