@@ -1,12 +1,56 @@
-## Olá! Eu sou o Nicolas Vanzo, estudante de Engenharia de Software. Estou começando minha carreira nessa área de TI.
+<h1 align="center">Olá 👋 Eu sou Nicolas Vanzo</h1>
 
-<div>
+<h3 align="center">🎓 Estudante de Engenharia de Software | 💻 Futuro Desenvolvedor</h3>
+
+<p align="center">
+  Estou iniciando minha carreira na área de TI e focado em evoluir como desenvolvedor.
+</p>
+
+---
+
+<div align="center">
   <a href="https://github.com/Nicolas-Vanzo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Vanzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vanzo&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Vanzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_color=8A2BE2&title_color=8A2BE2&icon_color=8A2BE2"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Vanzo&layout=compact&langs_count=8&theme=dracula&border_color=8A2BE2&title_color=8A2BE2"/>
   </a>
-</div> 
-    
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </div>
+
+---
+
+## 🛠 Tecnologias que estou estudando
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=8A2BE2"/>
+
+</div>
+
+---
+
+## 📈 Objetivos
+
+- 🔥 Evoluir como desenvolvedor
+- 🧠 Aprender boas práticas de arquitetura
+- 🚀 Construir projetos reais
+- 💼 Conquistar minha primeira oportunidade na área
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://github.com/Nicolas-Vanzo">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8A2BE2"/>
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  💜 Sempre aprendendo, sempre evoluindo.
+</p>
