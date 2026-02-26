@@ -31,13 +31,6 @@ Estou iniciando minha carreira na área de TI, focado em evoluir constantemente 
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=8A2BE2"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=8A2BE2"/>
 
-<br>
-
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=8A2BE2"/>
-
 </div>
 
 ---
