@@ -47,8 +47,6 @@ Estou iniciando minha carreira na área de TI, focado em evoluir constantemente 
 
 ---
 
-## 🌐 Conecte-se comigo
-
 <div align="center">
 
 ## 🌐 Conecte-se comigo
