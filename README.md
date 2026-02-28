@@ -8,12 +8,14 @@ Estou iniciando minha carreira na área de TI, focado em evoluir constantemente 
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicolas-Vanzo&theme=midnight_purple"/>
-</div>
+<div align="center" style="margin-top: 40px; margin-bottom: 60px;">
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicolas-Vanzo&theme=midnight_purple"/>
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nicolas-Vanzo&show_icons=true&include_all_commits=true&bg_color=000000&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&border_color=8A2BE2&hide_border=false" />
+
+  <img height="180em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicolas-Vanzo&layout=compact&langs_count=8&bg_color=000000&title_color=8A2BE2&text_color=ffffff&icon_color=8A2BE2&border_color=8A2BE2&hide_border=false" />
+
 </div>
 
 ---
